@@ -12,7 +12,7 @@ function Navbar(){
         <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
           <li><Link to="/Products" class="nav-link px-2 link-secondary">Products</Link></li>
           <li><Link to="/Addproduct" class="nav-link px-2 link-body-emphasis">Add</Link></li>
-          <li><a href="#" class="nav-link px-2 link-body-emphasis">Customers</a></li>
+          {/* <li><a href="#" class="nav-link px-2 link-body-emphasis">Customers</a></li> */}
           
         </ul>
 
